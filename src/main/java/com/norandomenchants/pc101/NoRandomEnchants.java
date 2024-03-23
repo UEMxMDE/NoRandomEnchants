@@ -14,7 +14,7 @@ import com.norandomenchants.pc101.proxy.CommonProxy;
 import com.norandomenchants.pc101.util.Reference;
 
 @Mod(modid = Reference.MOD_ID, version = Reference.VERSION, name = Reference.NAME) //maybe add modLanguageAdapter and updateJSON which are mentioned in the forge documentation
-public class NoRandomEnchants
+public class NoRandomEnchants           //Temporary
 {
     @Instance
     public static NoRandomEnchants instance;
