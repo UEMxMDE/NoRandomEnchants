@@ -1,0 +1,12 @@
+[{
+  "modid": "norandomenchants",
+  "name": "No Random Enchantments",
+  "description": "Changes the default enchanting table to remove any randomness and allows you to purchase enchantments at a fixed price.",
+  "version": "1.0.0.0",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/norandomenchants/textures/logo.png",
+  "url": "minecraftforge.net/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Author"],
+  "credits": "TurtyWurty for his 1.12.2 modding tutorial, "
+}]
