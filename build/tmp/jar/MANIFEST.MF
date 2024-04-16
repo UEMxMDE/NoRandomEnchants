@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: No random enchants
+Implementation-Version: 1.0
+Specification-Vendor: norandomenchantssareus
+Specification-Title: norandomenchants
+Implementation-Timestamp: 2024-02-25T11:21:44-0800
+Specification-Version: 1
+Implementation-Vendor: norandomenchantssareus
+
